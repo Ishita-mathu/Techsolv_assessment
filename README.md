@@ -11,4 +11,4 @@ CREATE TABLE `contact_form` (
   `ip_address` varchar(30) NOT NULL,
   `time_stamp` timestamp NOT NULL)
 
-  # Now run the index.html file
+  # Now run the index.php file on a web server
